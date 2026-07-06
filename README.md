@@ -37,14 +37,23 @@ The site is hosted entirely on **Azure Blob Storage** using its built-in static 
 6. Azure exposed a public **primary endpoint URL** to serve the site over HTTPS
 
 Storage Account (StorageV2)
+
 │
+
 ▼
+
 Static Website Hosting (enabled)
+
 │
+
 ▼
+
 $web container ──> protfolio.html, 404.html
+
 │
+
 ▼
+
 Primary Endpoint (public HTTPS URL)
 
 

@@ -2,7 +2,7 @@
 
 A professional portfolio website showcasing my AI/ML and cloud engineering projects, deployed as a static site using **Azure Blob Storage's static website hosting** feature.
 
-🔗 **Live Demo:** [https://manasaprotfolio2026.z22.web.core.windows.net/](https://manasaprotfolio2026.z22.web.core.windows.net/)
+ **Live Demo:** [https://manasaprotfolio2026.z22.web.core.windows.net/](https://manasaprotfolio2026.z22.web.core.windows.net/)
 
 ---
 
@@ -56,6 +56,15 @@ $web container ──> protfolio.html, 404.html
 
 Primary Endpoint (public HTTPS URL)
 
+---
+
+##  Screenshots
+
+### Portfolio Homepage
+![Homepage Screenshot](screenshots/homepage.png)
+
+### Custom 404 Page
+![404 Page Screenshot](screenshots/404-page.png)
 
 ---
 
@@ -79,4 +88,5 @@ Primary Endpoint (public HTTPS URL)
 ##  Author
 
 **Bhimanadhuni Leela Manasa**
-AI/ML Engineer | Azure Cloud Enthusiast
+
+Azure Cloud Enthusiast

@@ -36,6 +36,8 @@ The site is hosted entirely on **Azure Blob Storage** using its built-in static 
 5. Uploaded the HTML files directly into the `$web` container via the Azure Portal
 6. Azure exposed a public **primary endpoint URL** to serve the site over HTTPS
 
+##
+
 Storage Account (StorageV2)\
 │\
 ▼\
